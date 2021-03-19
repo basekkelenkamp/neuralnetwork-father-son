@@ -1,0 +1,1 @@
+{"inputUnits":[1],"outputUnits":1,"inputs":{"Father":{"dtype":"number","min":59,"max":75.4}},"outputs":{"Son":{"dtype":"number","min":58.5,"max":78.4}},"isNormalized":true}
